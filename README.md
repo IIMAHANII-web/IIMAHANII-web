@@ -14,7 +14,7 @@ I enjoy turning ideas into functional projects, learning new technologies, and i
 
 ### 🚀 Projects
 
-I'm currently building projects to strengthen my skills in web development and software engineering.
+- **[Quizify](https://github.com/me50/iimahanii-ctrl)** — A Django-based quiz platform where users can create, share, and take interactive quizzes.
 
 ### 📚 Currently Learning
 
