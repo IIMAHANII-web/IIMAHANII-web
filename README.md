@@ -25,3 +25,5 @@ I'm currently building projects to strengthen my skills in web development and s
 ### 📫 Contact
 
 - **GitHub:** [@IIMAHANII-web](https://github.com/IIMAHANII-web)
+- ### 📫 Contact
+- **Email:** mahan.webdev@gmail.com
