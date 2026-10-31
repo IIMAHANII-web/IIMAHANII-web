@@ -16,19 +16,19 @@ I enjoy turning ideas into functional projects, learning new technologies, and i
 
 - **[Quizify](https://github.com/me50/iimahanii-ctrl)** — A Django-based quiz platform where users can create, share, and take interactive quizzes.
 
+### 🎓 Harvard CS50 Certificates
+
+- **CS50P** — Introduction to Programming with Python (2025) · [View Certificate (PDF)](https://cs50.harvard.edu/certificates/da00082a-60d6-42dd-80b2-0c8f8eded987)
+- **CS50W** — Web Programming with Python and JavaScript (2026) · [View Certificate (PDF)](https://cs50.harvard.edu/certificates/db1a4b16-4d2d-4129-b010-7187ea80ccdc)
+
 ### 📚 Currently Learning
 
 - Advanced web development
 - Artificial Intelligence
 - Improving my software engineering skills
 
-### 🎓 Harvard CS50 Certificates
-
-- **CS50P** — Introduction to Programming with Python (2025) · [View Certificate (PDF)](https://cs50.harvard.edu/certificates/da00082a-60d6-42dd-80b2-0c8f8eded987)
-- **CS50W** — Web Programming with Python and JavaScript (2026) · [View Certificate (PDF)](https://cs50.harvard.edu/certificates/db1a4b16-4d2d-4129-b010-7187ea80ccdc)
 
 ### 📫 Contact
 
 - **GitHub:** [@IIMAHANII-web](https://github.com/IIMAHANII-web)
-- ### 📫 Contact
 - **Email:** mahan.webdev@gmail.com
