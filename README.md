@@ -22,6 +22,11 @@ I enjoy turning ideas into functional projects, learning new technologies, and i
 - Artificial Intelligence
 - Improving my software engineering skills
 
+### 🎓 Certifications
+
+- [CS50P — Introduction to Programming with Python](https://cs50.harvard.edu/certificates/da00082a-60d6-42dd-80b2-0c8f8eded987) — Harvard University, 2025
+- [CS50W — Web Programming with Python and JavaScript](https://cs50.harvard.edu/certificates/db1a4b16-4d2d-4129-b010-7187ea80ccdc) — Harvard University, 2026
+
 ### 📫 Contact
 
 - **GitHub:** [@IIMAHANII-web](https://github.com/IIMAHANII-web)
