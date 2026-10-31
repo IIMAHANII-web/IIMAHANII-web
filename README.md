@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm IIMAHANII 👋
 
-<!--
-**IIMAHANII-web/IIMAHANII-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | Python • Django • JavaScript
 
-Here are some ideas to get you started:
+I'm a developer interested in building useful, responsive websites and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into functional projects, learning new technologies, and improving my development skills.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Backend:** Django
+- **Other Interests:** Blender, 3D Modeling, Game Development
+
+### 🚀 Projects
+
+I'm currently building projects to strengthen my skills in web development and software engineering.
+
+### 📚 Currently Learning
+
+- Advanced web development
+- Artificial Intelligence
+- Improving my software engineering skills
+
+### 📫 Contact
+
+- **GitHub:** [@IIMAHANII-web](https://github.com/IIMAHANII-web)
